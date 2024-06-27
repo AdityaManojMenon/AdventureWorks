@@ -5,6 +5,7 @@ This project involves transforming raw data, into professional-quality reports a
 
 # Executive Dashboard
 
+![Executive Dashboard](https://github.com/AdityaManojMenon/AdventureWorks/assets/143031124/69b2d9fa-526e-4a4e-af2c-feee4133fc4e)
 
 
 
